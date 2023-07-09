@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MarkRywell&color=blueviolet&style=flat-for-the-badge&label=PROFILE+VIEWS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRywell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRywell&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MarkRywell/MarkRywell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
