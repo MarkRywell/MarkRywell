@@ -13,7 +13,7 @@ message="${moods[$random_index]}"
 echo "$message today ($(date +'%Y-%m-%d'))" >> ../README.md
 
 # (Optional) Remove previous message (if needed)
-sed '/I'"m [^"]* today"/d' README.md  # Uncomment to remove previous line
+sed '/I'"m [^"]* today"/d' ../README.md
 
 git config user.name "MarkRywell"
 git config user.email "markgaje43@gmail.com"
